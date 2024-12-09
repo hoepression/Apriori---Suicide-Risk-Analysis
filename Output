@@ -1,0 +1,14 @@
+ we got the following association rules:
+ ('Previous Attempts',) => ('Abuse History',)
+ ('Previous Attempts',) => ('Childhood Trauma',)
+ ('Abuse History',) => ('Childhood Trauma',)
+ ('Social Isolation',) => ('Childhood Trauma',)
+ ('Childhood Trauma',) => ('Social Isolation',)
+ ('Financial Problem',) => ('Childhood Trauma',)
+ ('Abuse History',) => ('Childhood Trauma',)
+ ('Childhood Trauma',) => ('Social Isolation',)
+ ('Social Isolation',) => ('Childhood Trauma',)
+ ('Self-Harm History',) => ('Financial Problem',)
+ ('Abuse History', 'Social Isolation') => ('Childhood Trauma',)
+
+
